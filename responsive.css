@@ -1,0 +1,197 @@
+@media (max-width: 420px) {
+
+
+    .navbar ul{
+        display: none;
+    }
+
+    .navbar{
+        justify-content: space-between;
+    }
+
+    .navbar i{
+        display: block;
+        font-size: 1.5rem;
+        margin-right: 25px;
+    }
+
+    .logo{
+        margin-left: 15px;
+    }
+
+    .right img {
+        display: none;
+    }
+
+    .right{
+        width: 0%;
+    }
+
+    .icons{
+        display: none;
+    }
+
+    .left{
+        width: 100%;
+        /* border: 2px solid red; */
+        height: 70%;
+    }
+
+    .heading{
+        width: 80%;
+        /* border: 2px solid red; */
+        /* height: 80%; */
+    }
+
+    .left p{
+        font-size: 2rem;
+    }
+
+
+    .services-sec{
+        /* display: none; */
+        flex-wrap: wrap;
+        height: 300vh;
+        margin-top: 0%;
+    }
+
+    .about-sec{
+        width: 100%;
+    }
+
+    .left2{
+        width: 100%;
+    }
+
+    .right2{
+        width: 0;
+        display: none;
+    }
+
+    .container{
+        height: 75vh;
+    }
+
+
+
+    .website{
+        height: 30%;
+        /* display: none; */
+        width: 90%;
+    }
+
+    .video{
+        height: 30%;
+        /* display: none; */
+        width: 90%;
+    }
+
+    .photo{
+        height: 30%;
+        width: 90%;
+    }
+
+    .line{
+        width: 18%;
+    }
+
+    .line2{
+        width: 18%;
+    }
+
+    .right3{
+        width: 0%;
+    }
+
+    .right3 img{
+        display: none;
+    }
+
+    .left3{
+        width: 100%;
+        /* border: 2px solid red; */
+        height: 95vh;
+    }
+
+    .html-prog{
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+        height: 15%;
+        /* border: 2px solid red; */
+        justify-content: space-evenly;
+    }
+
+    .prog-bar1{
+        width: 100%;
+        height: 30%;
+    }
+    
+    .prog-bar2{
+        width: 100%;
+        height: 30%;
+    }
+
+    .prog-bar3{
+        width: 100%;
+        height: 30%;
+    }
+
+    .prog-bar4{
+        width: 100%;
+        height: 30%;
+    }
+
+    .prog-bar5{
+        width: 100%;
+        height: 30%;
+    }
+    .css-prog{
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+        height: 15%;
+        /* border: 2px solid red; */
+        justify-content: space-evenly;
+    }
+
+    .js-prog{
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+        height: 15%;
+        /* border: 2px solid red; */
+        justify-content: space-evenly;
+    }
+
+    .python-prog{
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+        height: 15%;
+        /* border: 2px solid red; */
+        justify-content: space-evenly;
+    }
+
+    .java-prog{
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+        height: 15%;
+        /* border: 2px solid red; */
+        justify-content: space-evenly;
+    }
+
+    .exp-sec{
+        height: 110vh;
+    }
+
+    .line4{
+        width: 100%;
+    }
+
+    .line3{
+        width: 30%;
+    }
+
+}
